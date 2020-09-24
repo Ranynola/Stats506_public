@@ -9,9 +9,9 @@ Stats506 F20 repository: https://github.com/jbhender/Stats506_F20/tree/master
 https://github.com/longyyu/Stats506_public  
 https://github.com/Ranynola/Stats506_public  
 
-*Week 1 - Linux Shell Skills
-	* read files and extract variables     
+*Week 1 - Linux Shell Skills  
+  *read files and extract variables     
 *Week 2 - R  
-	* went over R mathematic operations  
+  *went over R mathematic operations  
 *Week 3 Git and RMarkdown
-	* create Github repository    
+  *create Github repository    
