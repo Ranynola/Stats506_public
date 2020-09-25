@@ -1,6 +1,5 @@
 #!/bin/env bash
 # Stats 506, Fall 2020
-# Updated: Sep 10, 2020 by Yanyu Long
 # 79: -------------------------------------------------------------------------
 file=$1
 pattern=$2
@@ -35,3 +34,4 @@ cols=${cols%?} # delete the last comma
 cut -d, -f$cols $file # > recs_brrweights.csv
 
 # 79: -------------------------------------------------------------------------
+
