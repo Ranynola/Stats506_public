@@ -15,3 +15,9 @@ https://github.com/Ranynola/Stats506_public
   * went over R mathematic operations  
 * Week 3 Git and RMarkdown
   * create Github repository    
+
+## Week 4-5  
+* Link to teammates:  
+https://github.com/skorsu/Stats506_public  
+https://github.com/HongfanChen/Stats506_public  
+https://github.com/Ranynola/Stats506_public
