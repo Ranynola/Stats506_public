@@ -25,3 +25,4 @@ https://github.com/Ranynola/Stats506_public
 ## Group Project 1 (week8)
 * Yanhan Si https://github.com/yanhan-si/Stats506_public
 * Hao He https://github.com/hhaohe513/Stats506_public
+* group project repo: https://github.com/yanhan-si/Stats506_group
